@@ -1,0 +1,25 @@
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\bin\Debug\NEA - Chess Engine.exe.config
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\bin\Debug\NEA - Chess Engine.exe
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\bin\Debug\NEA - Chess Engine.pdb
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\Frontend - GUI.csproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA___Chess_Engine.Form1.resources
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA___Chess_Engine.FormAnalyze.resources
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA___Chess_Engine.FormGame.resources
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA___Chess_Engine.FormOptions.resources
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA___Chess_Engine.Properties.Resources.resources
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\Frontend - GUI.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\Frontend - GUI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA - Chess Engine.exe
+C:\Users\Oscar\Desktop\NEA\Frontend - GUI\obj\Debug\NEA - Chess Engine.pdb
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\bin\Debug\NEA - Chess Engine.exe.config
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\bin\Debug\NEA - Chess Engine.exe
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\bin\Debug\NEA - Chess Engine.pdb
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\Frontend - GUI.csproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\NEA___Chess_Engine.Form1.resources
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\NEA___Chess_Engine.FormGame.resources
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\NEA___Chess_Engine.FormOptions.resources
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\NEA___Chess_Engine.Properties.Resources.resources
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\Frontend - GUI.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\Frontend - GUI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\NEA - Chess Engine.exe
+C:\Users\Oscar\Desktop\Epic Chess\Frontend - GUI\obj\Debug\NEA - Chess Engine.pdb
